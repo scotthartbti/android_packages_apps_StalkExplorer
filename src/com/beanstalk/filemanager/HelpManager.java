@@ -42,7 +42,7 @@ public class HelpManager extends Activity implements OnClickListener {
 
         String text = "If you have any questions or comments, please "
                         +"make sure to visit the official BeanStalk "
-                        +"Facebook webpage.";
+                        +"Facebook page.";
 
         TextView label = (TextView)findViewById(R.id.help_top_label);
         label.setText(text);
